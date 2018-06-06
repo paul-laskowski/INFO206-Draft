@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data 8 with Jekyll"
+title                    : "INFO 206"
 title_separator          : "-"
-name                     : "Berkeley DSEP"
+name                     : "Software Prototyping for Data Science and Information Management"
 description              : ""
-url                      : "https://predictablynoisy.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/data8-template" # the subpath of your site, e.g. "/blog"
-hub_url                  : "http://104.155.140.67"  # The URL for your JupyterHub. Should be a string.
+url                      : "https://courses.ischool.berkeley.edu/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/i206/f13" # the subpath of your site, e.g. "/blog"
+hub_url                  : "http://35.203.185.199/"  # The URL for your JupyterHub. Should be a string.
 hub_name                 : "DataHub"  # The name of your JupyterHub
 textbook_url             : "https://github.com/data-8/textbook"  # The URL for your version of the textbook on GitHub.
 textbook_branch          : "gh-pages"  # The branch on which your textbook is hosted.
